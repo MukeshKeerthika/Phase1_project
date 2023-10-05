@@ -1,0 +1,2 @@
+# Phase1_project
+MEASURE ENERGY CONSUMPTION 
